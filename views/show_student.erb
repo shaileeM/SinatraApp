@@ -1,0 +1,12 @@
+<h1><%= @student.name %></h1>
+<p>Date of birth: <%= @student.date_birth%> </p>
+<p>Phone number: <%= @student.phone %></p>
+<pre>
+    <%= @student.address %>
+</pre>
+<p><a href="/students">Back to students index</a></p>
+<p><a href="/students/<%=@student.id%>/edit">Edit this student</a></p>
+<form action="/students/<%= @student.id %>" method="post">
+    <input type="hidden" name="_method" value="DELETE">
+    <input type="submit" value="delete this student">
+</form>

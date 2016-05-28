@@ -1,0 +1,13 @@
+    <label for="name">Name</label>
+    <input id="name" type="text" name="student[name]" value="<%= @student.name %>">
+
+    <label for="phone">Phone number</label>
+    <input id="phone" type="number" name="student[phone]" value="<%= @student.phone %>">
+
+    <label for="date_birth">Date of Birth(mm/dd/yyyy)</label>
+    <input id="date_birth" type="text" name="student[date_birth]" value="<% @student.date_birth.strftime("%m/%d/%Y") if @student.date_birth %>">
+
+    <label for="address">Address</label>
+    <textarea id="address" name="student[address]"><%= @student.address %></textarea>
+
+    <input type="submit" value="Save Student">
