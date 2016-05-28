@@ -4,6 +4,9 @@ require 'sass'
 require './student'
 require 'data_mapper'
 
+
+
+
 configure do
   enable :sessions
     set :username, 'shailee'
