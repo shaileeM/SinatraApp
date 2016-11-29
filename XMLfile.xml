@@ -1,0 +1,72 @@
+<StudentBody xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<School>Sdanford</School>
+<Students>
+<Student>
+<FullName>Bless</FullName>
+<FirstName>Shailee</FirstName>
+<MiddleName>xyz</MiddleName>
+<LastName>Sun, 27 Nov 2016 20:15:01</LastName>
+<Sex>Female</Sex>
+<PhotoFilename>
+http://www.clipartqueen.com/image-files/bird-clip-art-beautiful-parrot-blue-orange.png
+</PhotoFilename>
+<GradePointAverage>9.1</GradePointAverage>
+</Student>
+<Student>
+<FullName>Love</FullName>
+<FirstName>Shilpee</FirstName>
+<MiddleName>abc</MiddleName>
+<LastName>Mon, 28 Nov 2016</LastName>
+<Sex>Female</Sex>
+<PhotoFilename>
+https://img0.etsystatic.com/000/0/5996417/il_fullxfull.312650024.jpg
+</PhotoFilename>
+<GradePointAverage>1.55</GradePointAverage>
+</Student>
+<Student>
+<FullName>Luck</FullName>
+<FirstName>Rhea</FirstName>
+<MiddleName>pqr</MiddleName>
+<LastName>Fri, 25 Nov 2016</LastName>
+<Sex>Female</Sex>
+<PhotoFilename>
+http://www.fun-lover.com/graphic-shop/Clips/images/Misc/Birds-of-Paradise.png
+</PhotoFilename>
+<GradePointAverage>2.32</GradePointAverage>
+</Student>
+<Student>
+<FullName>Fortune</FullName>
+<FirstName>Yash</FirstName>
+<MiddleName>lmn</MiddleName>
+<LastName>Thu, 24 Nov 2016</LastName>
+<Sex>Male</Sex>
+<PhotoFilename>
+https://s-media-cache-ak0.pinimg.com/originals/01/61/2b/01612b2752cf32f8e3e466c657305a72.png
+</PhotoFilename>
+<GradePointAverage>3.55</GradePointAverage>
+</Student>
+<Student>
+<FullName>Prosperity</FullName>
+<FirstName>Khushbu</FirstName>
+<MiddleName>ijk</MiddleName>
+<LastName>Tue, 22 Nov 2016</LastName>
+<Sex>Female</Sex>
+<PhotoFilename>
+https://openclipart.org/image/2400px/svg_to_png/181696/blue-butterfly.png
+</PhotoFilename>
+<GradePointAverage>9.05</GradePointAverage>
+</Student>
+<Student>
+<FullName>Wealth</FullName>
+<FirstName>Juie</FirstName>
+<MiddleName>stu</MiddleName>
+<LastName>Mon, 21 Nov 2016</LastName>
+<Sex>Female</Sex>
+<PhotoFilename>
+http://img10.deviantart.net/5450/i/2012/340/7/b/png_bird_by_moonglowlilly-d5n88u2.png
+</PhotoFilename>
+<GradePointAverage>5.4</GradePointAverage>
+</Student>
+
+</Students>
+</StudentBody>
